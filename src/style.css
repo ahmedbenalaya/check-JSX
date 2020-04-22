@@ -1,0 +1,11 @@
+.red{
+    color: red;
+}
+.title{
+    font-size: 30px;
+}
+.cadre{
+    border:solid 1px black;
+    max-width:100vw;
+}
+
